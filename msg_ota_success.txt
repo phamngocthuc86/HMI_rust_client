@@ -1,6 +1,6 @@
 {
    "ota_msg": {
        "module_name": "hmi_app",
-       "msg_name": "success_msg",
+       "msg_name": "success_msg"
    }
 }

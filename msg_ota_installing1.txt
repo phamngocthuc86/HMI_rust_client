@@ -1,0 +1,7 @@
+{
+   "ota_msg": {
+       "module_name": "hmi_app",
+       "msg_name": "installing_msg",
+       "percent": 20
+   }
+}
