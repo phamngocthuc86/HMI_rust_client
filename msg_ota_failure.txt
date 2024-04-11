@@ -1,0 +1,6 @@
+{
+   "ota_msg": {
+       "module_name": "hmi_app",
+       "msg_name": "failure_msg"
+   }
+}
